@@ -1,0 +1,21 @@
+.mainscreen {
+    -fx-font-size: 30px;
+    -fx-font-family: sans-serif;
+	-fx-border-style: solid;
+	-fx-border-color: #778899;
+    -fx-border-width: 3;    
+	-fx-font-weight: bolder;
+	-fx-padding: 10px;
+	-fx-border-insets: 5px;
+	-fx-border-radius: 5px;
+}
+
+.numbers{
+	-fx-font-size: 20px;
+	-fx-font-weight: bold;
+}
+
+.clear{
+	-fx-font-size: 20px;
+	-fx-font-weight: bold;
+}
